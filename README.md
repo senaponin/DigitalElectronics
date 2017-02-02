@@ -23,6 +23,7 @@ Force Sensitive Sensor: FSRs are basically a resistor that changes its resistive
 
 
 Code 4: Making Sounds with Buttons:
+```ruby
 
 int button1=6; // button1 is connected to pin6 void loop()
 int button2=7; // button2 is connected to pin7
@@ -54,3 +55,4 @@ delay (1000); //...one second long...
 noTone(8); //...than turn it off
 }
 }
+```
