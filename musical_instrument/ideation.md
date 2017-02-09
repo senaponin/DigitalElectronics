@@ -14,4 +14,8 @@ It will involve an analog pressure sensor for each step that relays to different
 (attached in this folder under Musical Instrument shematics)
 
 ### 4. Describe what your program will do, to the best of your ability
-The program will connect the 
+The program will build upon this system:
+
+https://gist.github.com/timpulver/5ba4a29cddd543b4a900
+
+I will connect the pressure sensor/arduino into processing to draw forth musical notes and play it back for every time people stepped on the sensor. I have not yet fully researched the process however the reasoning to connect this arduino code to processing makes sense as I am interested in making sounds come out lower depending on pressure; it will be (to my knowledge) something I am familiar in using.
