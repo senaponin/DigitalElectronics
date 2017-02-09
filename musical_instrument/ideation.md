@@ -19,3 +19,33 @@ The program will build upon this system:
 https://gist.github.com/timpulver/5ba4a29cddd543b4a900
 
 I will connect the pressure sensor/arduino into processing to draw forth musical notes and play it back for every time people stepped on the sensor. I have not yet fully researched the process however the reasoning to connect this arduino code to processing makes sense as I am interested in making sounds come out lower depending on pressure; it will be (to my knowledge) something I am familiar in using.
+
+The bottom code is taken from the website and will be the basis of my experimentation into creating my musical steps. This will hopefully make it more fun to walk up to the studio in the days that they are implemented.
+
+```javascript
+/*
+  AnalogReadSerial
+  Reads an analog input on pin 0, prints the result to the serial monitor.
+  Attach the center pin of a potentiometer to pin A0, and the outside pins to +5V and ground.
+
+ This example code is in the public domain.
+ */
+
+// the setup routine runs once when you press reset:
+void setup() {
+  // initialize serial communication at 9600 bits per second:
+  Serial.begin(9600);
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  // read the input on analog pin 0:
+  int sensorValue = analogRead(A0);
+  // print out the value you read:
+  Serial.println(sensorValue);
+  if(sensorValue > 200) {
+    Serial.println("T"); // send the letter T (for Trigger) once the sensor value is bigger than 200  
+  }
+  delay(1);        // delay in between reads for stability
+}
+```
