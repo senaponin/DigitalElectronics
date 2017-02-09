@@ -49,3 +49,4 @@ void loop() {
   delay(1);        // delay in between reads for stability
 }
 ```
+Alternatively: http://www.instructables.com/id/Piano-Stairs-with-Arduino-and-Raspberry-Pi/
