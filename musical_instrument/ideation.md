@@ -1,6 +1,6 @@
 #HW - 3 
 ### 1. Draw a sketch of your instrument
-(attached in this folder under Musical Instrument sketch)
+(attached in this folder under Musical Instrument sketch in musical_instrument folder)
 
 ### 2. Describe the overall concept
 
@@ -11,7 +11,7 @@ With that in mind, I want to create a musical instrument out of the stairs in ou
 It will involve an analog pressure sensor for each step that relays to different sounds when triggered. Depending on how heavy or light the applied pressure will create different sounds. For example, a heavier stomp = lower sounds.
 
 ### 3. Create a very rough schematic to the best of your ability
-(attached in this folder under Musical Instrument shematics)
+(attached in this folder under Musical Instrument shematics in musical_instrument folder)
 
 ### 4. Describe what your program will do, to the best of your ability
 The program will build upon this system:
