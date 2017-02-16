@@ -1,7 +1,7 @@
 #Hw - 4
 ### Create a version of arduinoMinimProcessing which reads from two sensors
 
-```/
+```Javascript
 /*
   Graph
 
@@ -42,4 +42,4 @@ void loop() {
   // to stabilize after the last reading:
   delay(2);
 }
-```/
+```
