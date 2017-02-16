@@ -2,6 +2,7 @@
 ### Create a version of arduinoMinimProcessing which reads from two sensors
 
 This goes on your Arduino Program.
+Open this link as reference: https://www.arduino.cc/en/Tutorial/Graph
 
 ```Javascript
 /*
