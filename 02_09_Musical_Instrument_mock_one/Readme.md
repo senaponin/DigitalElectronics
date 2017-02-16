@@ -1,6 +1,6 @@
 # Build a mock-up of a simplified version of your musical instrument
 
-Open Link as Reference: http://teachmetomake.com/wordpress/arduino-audio
+Open Link as Reference: http://teachmetomake.com/wordpress/arduino-audio *separate paragraph*
 Debounce Tutorial: https://www.arduino.cc/en/Tutorial/Debounce
 
 Schematic: (Found under this folder named: DrawnSchematic
