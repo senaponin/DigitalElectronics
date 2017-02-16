@@ -102,3 +102,7 @@ void serialEvent (Serial myPort) {
  }
 }
 ```
+### Future Itirations:
+The next step is to figure out how to have different sounds playing when different switches are triggered. Will they keep playing? Will one stop when the other plays? These are to be taken into consideration when moving forward. Can it be taken out of processing and placed into something smaller? Read more of the details at: https://github.com/senaponin/DigitalElectronics/tree/master/02_09_ArduinoMinim As this project only serves as a proof of concept.
+
+Questions? Email me at npanes@cca.edu
