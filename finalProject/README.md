@@ -1,4 +1,4 @@
 # Final Project 
 
-## Project Ideation
+### Table of Contents
 For this project, I am to...
