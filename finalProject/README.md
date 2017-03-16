@@ -1,5 +1,4 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
+**Table of Contents**  
 - [Final Project](#)
 	- [Table of Contents](#)
 
