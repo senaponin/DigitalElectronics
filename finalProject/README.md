@@ -21,7 +21,8 @@ The perceived factors that make this project hard are as follows:
 
 ## Research
 
-My preliminary research involved seeing if the sensor is available which it is at: http://www.mouser.com/ProductDetail/Adafruit/659/?qs=GURawfaeGuCAOmjz09odww%3D%3D&gclid=CNKtoba_29ICFRRqfgodyusPcA or other sources such as Adafruit or online.
+My preliminary research involved seeing if the sensor is available and if there are different kinds.My search led me to sites like 
+Adafruit or similar. (This section will be updated when I determine which sensor to use moving forward).
 
 The next part involved looking at tutorials that would help me in formulating a plan of attack in tackling this endeavor. The list below is as follows:
 
