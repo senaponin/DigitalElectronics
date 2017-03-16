@@ -1,7 +1,7 @@
 **Table of Contents**  
 - [Final Project](#)
 	- [Proposal](#)
-
+	- [Research](#)
 
 
 # Final Project 
@@ -18,3 +18,22 @@ The perceived factors that make this project hard are as follows:
 ### How to give visual cues that the right color is being detected? How does the user choose color?
 	In my team's original idea, we used an app that connected to the ring via bluetooth so that 
 	the user could see and choose. I would need to reiterate this interaction into a different model.
+
+## Research
+
+My preliminary research involved seeing if the sensor is available which it is at: http://www.mouser.com/ProductDetail/Adafruit/659/?qs=GURawfaeGuCAOmjz09odww%3D%3D&gclid=CNKtoba_29ICFRRqfgodyusPcA or other sources such as Adafruit or online.
+
+The next part involved looking at tutorials that would help me in formulating a plan of attack in tackling this endeavor. The list below is as follows:
+
+	⋅⋅* http://howtomechatronics.com/tutorials/arduino/arduino-color-sensing-tutorial-tcs230-tcs3200-color-sensor/
+		(A simple calibration technique for basic color sensing using using Arduino and the 
+		TCS230 / TCS3200 Color Sensor)
+	⋅⋅* https://circuitdigest.com/microcontroller-projects/arduino-color-sensor-tcs3200
+		(In this project they are going to interface TCS3200 color sensor with Arduino UNO. 
+		TCS3200 is a color sensor which can detect any number of colors with right programming. 
+		TCS3200 contains RGB (Red Green Blue) arrays. They also use a screen that shows the exact 
+		RGB values.
+	⋅⋅* http://www.instructables.com/id/Introduction-29/
+		(Color sensor project using LEDs for feedback)
+
+The above list is not exhaustive and will change as this project progresses and I dive deeper into modifying the device to fit the specific criteria for the purpose of my project.
