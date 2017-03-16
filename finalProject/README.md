@@ -1,4 +1,10 @@
+**Table of Contents**  
 
+- [Final Project](#)
+	- [Proposal](#)
+		- [How to determine the exact color?](#)
+		- [How to give visual cues that the right color is being detected? How does the user choose color?](#)
+	- [Research](#)
 
 # Final Project 
 This final project will be done by Nino Panes for the Spring '17 class of "Digital Electronics" at California College of the Arts.
