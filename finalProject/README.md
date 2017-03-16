@@ -25,17 +25,19 @@ My preliminary research involved seeing if the sensor is available which it is a
 
 The next part involved looking at tutorials that would help me in formulating a plan of attack in tackling this endeavor. The list below is as follows:
 
-	⋅⋅* http://howtomechatronics.com/tutorials/arduino/arduino-color-sensing-tutorial-tcs230-tcs3200-color-sensor/.
-	
+⋅⋅* http://howtomechatronics.com/tutorials/arduino/arduino-color-sensing-tutorial-tcs230-tcs3200-color-sensor/.
+		
 		(A simple calibration technique for basic color sensing using using Arduino and the 
 		TCS230 / TCS3200 Color Sensor)
-	⋅⋅* https://circuitdigest.com/microcontroller-projects/arduino-color-sensor-tcs3200.
+		
+⋅⋅* https://circuitdigest.com/microcontroller-projects/arduino-color-sensor-tcs3200.
 	
 		(In this project they are going to interface TCS3200 color sensor with Arduino UNO. 
 		TCS3200 is a color sensor which can detect any number of colors with right programming. 
 		TCS3200 contains RGB (Red Green Blue) arrays. They also use a screen that shows the exact 
 		RGB values.
-	⋅⋅* http://www.instructables.com/id/Introduction-29/.
+		
+⋅⋅* http://www.instructables.com/id/Introduction-29/.
 	
 		(Color sensor project using LEDs for feedback)
 
