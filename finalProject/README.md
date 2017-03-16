@@ -5,5 +5,5 @@
 
 # Final Project 
 
-## Table of Contents
+## Ideation
 For this project, I am to...
