@@ -1,7 +1,3 @@
-**Table of Contents**  
-- [Final Project](#)
-	- [Proposal](#)
-	- [Research](#)
 
 
 # Final Project 
