@@ -1,4 +1,4 @@
 # Final Project 
 
-###Project Ideation
+##Project Ideation
 For this project, I am to...
