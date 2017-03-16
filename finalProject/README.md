@@ -1,14 +1,7 @@
 **Table of Contents**  
 - [Final Project](#)
 	- [Proposal](#)
-	- [Itiration](#)
-- [Materials](#)
-	- [Electronics](#)
-	- [Physical](#)
-- [Code](#)
-	- [Arduino](#)
-	- [Processing](#)
-	
+
 
 
 # Final Project 
