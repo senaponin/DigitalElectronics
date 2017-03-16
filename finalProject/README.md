@@ -3,7 +3,7 @@
 - [Final Project](#)
 	- [Proposal](#)
 		- [How to determine the exact color?](#)
-		- [How to give visual cues that the right color is being detected? How does the user choose color?](#)
+		- [How to give visual cues that the right color is being detected?](#)
 	- [Research](#)
 
 # Final Project 
