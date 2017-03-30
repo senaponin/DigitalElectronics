@@ -54,4 +54,4 @@ At the very list some sort of device(wearable or portable) that can be carried a
 Some sort of digital display that allows the user to choose the color or input the desired color that can customize to their needs.
 
 ## Flow Chart
-![alt tag](http://imgur.com/a/g1wyw)
+![alt tag](http://i63.tinypic.com/6ozlfn.png)
