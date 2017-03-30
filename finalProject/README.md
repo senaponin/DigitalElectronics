@@ -57,6 +57,7 @@ Some sort of digital display that allows the user to choose the color or input t
 ![alt tag](http://i63.tinypic.com/6ozlfn.png)
 
 ## Possible Code
+Color Sensor:
 ```javascript
 int OutPut= 10;//naming pin10 of uno as output
 unsigned int frequency = 0;
@@ -110,3 +111,5 @@ void loop()
 }            
 ```
 source: https://circuitdigest.com/microcontroller-projects/arduino-color-sensor-tcs3200
+
+
