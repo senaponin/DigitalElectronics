@@ -45,3 +45,13 @@ The next part involved looking at tutorials that would help me in formulating a 
 		(Color sensor project using LEDs for feedback)
 
 The above list is not exhaustive and will change as this project progresses and I dive deeper into modifying the device to fit the specific criteria for the purpose of my project.
+
+
+## Minimal Viable Project
+At the very list some sort of device(wearable or portable) that can be carried around by the person who has color blindness that will enable them to discern colors when confronted with the task of navigating through the wolrd and having to choose certain objects that are identical in color to them. Attached is some sort of sensor or notification mechanism that allows them to know which color is being read.
+
+## Optional Add-ons
+Some sort of digital display that allows the user to choose the color or input the desired color that can customize to their needs.
+
+## Flow Chart
+![alt tag](http://imgur.com/a/g1wyw)
