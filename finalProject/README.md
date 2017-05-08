@@ -69,7 +69,10 @@ Some sort of digital display that allows the user to choose the color or input t
 ## Flow Chart
 ![alt tag](http://i63.tinypic.com/6ozlfn.png)
 
-## Possible Code
+# Circuit Diagram
+![alt tag](http://imgur.com/a/vZGqT)
+
+## Code
 Color Sensor:
 ```javascript
 int OutPut= 10;//naming pin10 of uno as output
@@ -123,6 +126,6 @@ void loop()
                 delay(500);        
 }            
 ```
-source: https://circuitdigest.com/microcontroller-projects/arduino-color-sensor-tcs3200
+
 
 
