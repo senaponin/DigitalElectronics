@@ -70,7 +70,7 @@ Some sort of digital display that allows the user to choose the color or input t
 ![alt tag](http://i63.tinypic.com/6ozlfn.png)
 
 # Circuit Diagram
-![alt tag](http://imgur.com/a/vZGqT)
+![alt tag](http://i.imgur.com/Ojxa6LU.png)
 
 ## Code
 Color Sensor:
