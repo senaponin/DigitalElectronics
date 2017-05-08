@@ -11,7 +11,20 @@ This final project will be done by Nino Panes for the Spring '17 class of "Digit
 For further inquiries on the project, please email me at npanes@cca.edu.
 
 ## Proposal
-For this project, I wish to continue my work from last semester's Studio 1 class. In that class we created a mock up of a ring that helped a colorblind person see the shades of blue, green, yellow and red (etc.)that she/he would have not otherwise. This would be done using a color sensor that relays information to a vibrator that would act as a haptic feedback to notify the user that the color they wish to choose.
+For this project, I wish to continue my work from last semester's Studio 1 class. In that class we created a mock up of a ring that helped a colorblind person see the shades of blue, green, yellow and red (etc.)that she/he would have not otherwise. This would be done using a color sensor that relays information to a vibrator that would act as a haptic feedback to notify the user that the color they wish to choose. 
+
+Conclusion: However for this project, the end result is a feedback using neopixel lights to determine what color is being detected based on position.
+
+I used Adafruit main board to create a wearable device that is easy to translate into either haptic feedback or light. Arduino's board was
+too bulky to be able to give the user the experience I wanted to convey.
+
+
+## Materials Used
+-FLORA main board 
+-3 FLORA RGB NeoPixels 
+-Flora color sensor 
+-3xAAA battery pack or 150mAh LiPo battery
+
 
 The perceived factors that make this project hard are as follows: 
 ### How to determine the exact color?
